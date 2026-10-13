@@ -34,5 +34,3 @@ class stockOLSEngine:
 
     def returnResiduals(self):
         return self.residuals
-
-
